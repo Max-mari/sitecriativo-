@@ -27,10 +27,10 @@
         color: #FFFFFF;
     }
     a:hover {
-    color: #16CFF8;
+    color: #ff7272;
     }
     a:active {
-        color: rgb(105, 144, 216);
+        color: rgb(168, 198, 255);
     }
     
     .escola-imagem{
@@ -40,6 +40,6 @@
     }
     
     .escola{
-        background-image: -moz-linear-gradient(#424e61),#16CFF8
+        background-image: -moz-linear-gradient(#000000),#ffffff
          color
     }
